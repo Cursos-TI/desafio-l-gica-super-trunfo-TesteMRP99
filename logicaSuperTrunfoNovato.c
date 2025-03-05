@@ -5,7 +5,7 @@
 	int main() {
 		char estado1[5], estado2[5]; 	//variavel que para o usuário informar o estado
 		char ccarta1[10], ccarta2[10];  //variavel para o usuário informar o código da carta;
-		char cidade1[50], cidade2[50];  //variavel para o usuário informar o nome da cidade
+		char cidade1[20], cidade2[20];  //variavel para o usuário informar o nome da cidade
 		
 		unsigned long int pop1, pop2; 	//variavel para o usuário informar o total populacional da cidade.
 		float area1, area2;				//variavel para o usuário informar o total da area em km
